@@ -1,9 +1,9 @@
 === Goto Obfuscator === by 亚蓝
 
-java -jar GotoObfuscator.jar build <your configuration name> to output an empty config.
-java -jar GotoObfuscator.jar handle <your configuration name> to obfuscate with this config.
+java -jar GotoObfuscator.jar build <your config name> to output an empty config.
+java -jar GotoObfuscator.jar handle <your config name> to obfuscate with this config.
 
-The configuration format is JSON.
+The config format is JSON.
 
 Plugin introduction:
 Create a folder named "GotoPlugins" in the Goto working directory and put the plugins in it.
